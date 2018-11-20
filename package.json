@@ -1,0 +1,23 @@
+{
+  "name": "seltsgulp",
+  "version": "1.0.0",
+  "description": "Selenium webdriver library using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clarencio Tan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cucumber": "^4.0.4",
+    "cucumber": "^5.0.2",
+    "gulp": "^3.9.1",
+    "gulp-cucumber": "0.0.23",
+    "gulp-typescript": "^5.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^4.0.4",
+    "gulp-clean": "^0.4.0",
+    "typescript": "^3.1.6"
+  }
+}
